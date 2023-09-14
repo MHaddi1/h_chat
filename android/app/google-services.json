@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814029138881",
+    "project_id": "hchat-44f50",
+    "storage_bucket": "hchat-44f50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814029138881:android:d87189e8df83f86c111d40",
+        "android_client_info": {
+          "package_name": "com.example.h_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSGh6tNWsK61ObRa9xBkB69b8QD1KbAqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
